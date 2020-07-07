@@ -36,6 +36,11 @@ A Lite UIKit For Demos.
 
 [GLDemoUIKit](https://github.com/GrayLand119/GLDemoUIKit)
 
+## EEMultiDelegate
+A multicast/multidelegate class with thread-safe
+
+[EEMultiDelegate](https://github.com/GrayLand119/EEMultiDelegate)
+
 ## GLRunTrace
 RunTrace tracks every UI element, including origin, bounds, frame, superview, subview etc.
 
